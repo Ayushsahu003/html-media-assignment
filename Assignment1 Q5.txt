@@ -1,0 +1,4 @@
+Q5. What is the DOCTYPE Declaration in HTML?
+Answer: 
+The DOCTYPE Declaration is the instruction placed on the top of the HTML code to specify 
+the latest version of HTML.
